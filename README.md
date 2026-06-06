@@ -32,9 +32,6 @@ Google Colab with NVCC Compiler
 
 ## PROGRAM:
 ```
-Developed By : Sriram Gopalan G
-Register No. : 212222230149
-```
 ```
 %%cuda
 #include <cuda_runtime.h>
